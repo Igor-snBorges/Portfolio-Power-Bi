@@ -12,7 +12,7 @@ Bem-vindo(a) ao meu repositório de projetos de Power Bi, criado para estudos e 
 
 ## ⚡️ Relatorio de Visão de Vendas
 
-* [Análise de Fraude Usando Arvore de Decisão(Fraud Detection)](https://github.com/Igor-snBorges/Portfolio-Power-Bi/blob/main/Relatorio%20de%20vendas.pbix) este código de análise de fraudes bancárias emprega a árvore de decisão para detectar e identificar possíveis fraudes com base nas atividades e transações de cada cliente. O sistema é altamente segmentado e simplificado, atribuindo um perfil distinto a cada cliente e empregando técnicas de clustering para análise.
+* [Relatoriod e Vendas - Power BI](https://github.com/Igor-snBorges/Portfolio-Power-Bi/blob/main/Relatorio%20de%20vendas.pbix) este código de análise de fraudes bancárias emprega a árvore de decisão para detectar e identificar possíveis fraudes com base nas atividades e transações de cada cliente. O sistema é altamente segmentado e simplificado, atribuindo um perfil distinto a cada cliente e empregando técnicas de clustering para análise.
        
   _Ferramentas: Power Bi, Linguagem M_
 
