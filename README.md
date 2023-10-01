@@ -17,7 +17,7 @@ Bem-vindo(a) ao meu repositório de projetos de Power Bi, criado para estudos e 
   _Ferramentas: Power Bi, Linguagem M_
 
 
-  ## ⚡️ Relatorio de Mercado de Ações
+## ⚡️ Relatorio de Mercado de Ações
 
 * [Relatorio de Mercado de Ações - Power BI](https://github.com/Igor-snBorges/Portfolio-Power-Bi/blob/main/Relatorio%20Mercado%20de%20A%C3%A7oes.pbix) este relatorio tem o objetivo de criar uma historia de entendimento a respeito do Mercado de Ações e seus demais insights.
        
